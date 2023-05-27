@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fisycal
-- 👀 I’m interested in coding effectively and efficiently with Python
-- 🌱 I’m currently learning on building on my Python foundation courses
-- 💞️ I’m looking to collaborate on intermediate Python projects
+- 👀 I’m interested in data science, data analytics, artificial intelligence
+- 🌱 I’m currently exploring learning different intermediate and advanced coding activities 
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 You can reach me at physicalmichael2015@gmail.com
 
 <!---
