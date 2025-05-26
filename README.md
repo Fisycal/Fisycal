@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fisycal
-- 👀 I’m interested in data science, data analytics, artificial intelligence
+- 👀 I’m interested in data science, data analytics, and artificial intelligence 
 - 🌱 I’m currently exploring learning different intermediate and advanced coding activities 
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 You can reach me at physicalmichael2015@gmail.com
